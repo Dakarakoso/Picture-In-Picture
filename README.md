@@ -14,7 +14,7 @@
 
 ### LIVE
 
-https://dakarakoso.github.io/Quote-Generator/
+https://dakarakoso.github.io/Picture-In-Picture/
 
 <!-- TABLE OF CONTENTS -->
 
@@ -48,14 +48,14 @@ This is a random Picture in Picture. In this project, I used an asynchronous fet
 
 ## Usage
 
-![Quote Generator](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
+![Picture-In-Picture](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
 
 <!-- CONTACT -->
 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Quote-Generator](https://github.com/Dakarakoso/Quote-Generator)
+Project Link: [https://github.com/Dakarokoso/Picture-In-Picture](https://github.com/Dakarakoso/Picture-In-Picture/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
