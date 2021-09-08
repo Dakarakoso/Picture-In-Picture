@@ -48,7 +48,13 @@ This is a random Picture in Picture. In this project, I used an asynchronous fet
 
 ## Usage
 
-![Picture-In-Picture](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
+<img src="images/part1.png"/>
+<img src="images/part2.png"/>
+<img src="images/part3.png"/>
+
+
+
+
 
 <!-- CONTACT -->
 
