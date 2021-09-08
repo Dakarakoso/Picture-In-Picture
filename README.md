@@ -37,7 +37,7 @@ https://dakarakoso.github.io/Picture-In-Picture/
 
 ## About The Project
 
-This is a random Picture in Picture. In this project, I used an asynchronous fetch request to arrest API in order to get random quotes. Users can press the button "new quote" and get different quotes. They can also share the quote in Twitter by pressing the button on the left.
+Overview of the project
 
 ### Built With
 
@@ -48,8 +48,11 @@ This is a random Picture in Picture. In this project, I used an asynchronous fet
 
 ## Usage
 
+1.select
 <img src="images/part1.png"/>
+2.press the START button
 <img src="images/part2.png"/>
+3.drag the picture in picture
 <img src="images/part4.png"/>
 
 
